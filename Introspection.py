@@ -12,5 +12,5 @@ number_info = introspection_info(42) # получение информации �
 print(number_info)
 string_info = introspection_info('Hello World') # получение информации о строке
 print(string_info)
-list_info = introspection_info([1, 20, 4.0, 'hello']) # получение информации о списке
+list_info = introspection_info([1, 10, 5.0, 'hello']) # получение информации о списке
 print(list_info)
